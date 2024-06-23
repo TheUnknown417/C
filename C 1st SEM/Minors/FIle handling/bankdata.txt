@@ -1,0 +1,5 @@
+101             Daoud            24.98
+102             Danish		 345.23
+103             Abdullah          0.00
+104             Junaid           -42.16
+105		Ali               224.62

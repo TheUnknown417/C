@@ -1,0 +1,6 @@
+Name		Roll_Number	GPA
+Daoud Haroon	217		3.90
+Hamza Butt	250		3.90
+Wali	438		3.30
+Ahmad	271		3.00
+Danish	239		4.00
